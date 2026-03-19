@@ -13,7 +13,7 @@ performance optimization, and long-term device support.
 - Xiaomi Spes (Snapdragon 680)
 
 ## Website
-https://shaddowaler-26.github.io
+https://shaddowalker-26.github.io
 
 ## GitHub
-https://github.com/Shaddowaler-26
+https://github.com/Shaddowalker-26
